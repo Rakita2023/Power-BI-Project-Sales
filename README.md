@@ -14,13 +14,14 @@ Dashboards Power BI
 This dashboard provides a comprehensive visualization of benefits and profit margins for a tech company, segmented across three key dimensions:
 
 1. Country: Analysis of performance by geographic region.
+
 ![Per Country](https://github.com/user-attachments/assets/c5511e1d-0805-4dc4-8dc6-c897b81621af)
 
-3. Client: Insights into profitability and benefits per client.
+2. Client: Insights into profitability and benefits per client.
 
 ![Per Client](https://github.com/user-attachments/assets/37075a8b-79e3-49bc-b40c-22b9697fbad4)
 
-5. Brand: Evaluation of the contribution of individual brands to overall profitability.
+3. Brand: Evaluation of the contribution of individual brands to overall profitability.
 
 ![Per Brand](https://github.com/user-attachments/assets/3489ec04-5f6f-4702-a48b-da2c9b6de3e6)
 
