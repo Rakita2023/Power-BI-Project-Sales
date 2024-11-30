@@ -15,10 +15,15 @@ This dashboard provides a comprehensive visualization of benefits and profit mar
 
 1. Country: Analysis of performance by geographic region.
 ![Per Country](https://github.com/user-attachments/assets/c5511e1d-0805-4dc4-8dc6-c897b81621af)
-2. Client: Insights into profitability and benefits per client.
+
+3. Client: Insights into profitability and benefits per client.
+
 ![Per Client](https://github.com/user-attachments/assets/37075a8b-79e3-49bc-b40c-22b9697fbad4)
-3. Brand: Evaluation of the contribution of individual brands to overall profitability.
+
+5. Brand: Evaluation of the contribution of individual brands to overall profitability.
+
 ![Per Brand](https://github.com/user-attachments/assets/3489ec04-5f6f-4702-a48b-da2c9b6de3e6)
+
 The dashboard serves as a vital tool for strategic decision-making, enabling users to identify high-performing areas and pinpoint opportunities for improvement.
 
 ### 📌 Key Features
